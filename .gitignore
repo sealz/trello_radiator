@@ -8,5 +8,9 @@
 /spec/reports/
 /tmp/
 
+# dotenv
+
+.env
+
 # rspec failure tracking
 .rspec_status
