@@ -1,0 +1,3201 @@
+[
+  {
+    "id": "5ab486acd7e4e71287b3df68",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T17:59:32.723Z",
+    "desc": "",
+    "descData": null,
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 12,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab482d4d78523e1e5bac99d",
+      "5ab440a05425d4a247518505"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Finnovate Delighters",
+    "pos": 49151.5,
+    "shortLink": "mrVKcrOs",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      },
+      {
+        "id": "5ab440a05425d4a247518505",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Delighter 🎉",
+        "color": "blue",
+        "uses": 5
+      }
+    ],
+    "shortUrl": "https://trello.com/c/mrVKcrOs",
+    "subscribed": false,
+    "url": "https://trello.com/c/mrVKcrOs/12-finnovate-delighters",
+    "customFieldItems": [
+      {
+        "id": "5ab5408492b0cc36b94bdc65",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab486acd7e4e71287b3df68",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab440341b88cd6dd42308b5",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-26T03:07:19.736Z",
+    "desc": "## Story\n\nAs a user, I want to be able to quickly scan the TruCode when I'm using the gateway so that I don't have to sit through a long animation to get where I'm going",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 3,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab4408f6acb2938fb0dcfdc",
+      "5ab43759841642c2a8541ca2",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab440a05425d4a247518505"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Shorten Gateway Animation",
+    "pos": 98303,
+    "shortLink": "yGK57u4P",
+    "badges": {
+      "votes" :0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab4408f6acb2938fb0dcfdc",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Gateway",
+        "color": null,
+        "uses": 1
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab440a05425d4a247518505",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Delighter 🎉",
+        "color": "blue",
+        "uses": 5
+      }
+    ],
+    "shortUrl": "https://trello.com/c/yGK57u4P",
+    "subscribed": false,
+    "url": "https://trello.com/c/yGK57u4P/3-shorten-gateway-animation",
+    "customFieldItems": [
+      {
+        "id": "5ab4442ad77fda6adc7ccea5",
+        "idValue": "5ab43cd138aa6c383671b1de",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "idModel": "5ab440341b88cd6dd42308b5",
+        "modelType": "card"
+      },
+      {
+        "id": "5ab44424e5c8c034f8824dcf",
+        "value": {
+          "text": "FINNOVATE223"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab440341b88cd6dd42308b5",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab44036694e612c7494a3c6",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:35:51.845Z",
+    "desc": "## Story\n\nAs a user, I want to complete all of my \"paperwork\" while registering so that I can just use the app when I'm done",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 4,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab441e16be2866afbef5a5e",
+      "5ab482d4d78523e1e5bac99d"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Priming Focused Registration",
+    "pos": 114687,
+    "shortLink": "proDXnkK",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab441e16be2866afbef5a5e",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Accounts Service",
+        "color": null,
+        "uses": 1
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      }
+    ],
+    "shortUrl": "https://trello.com/c/proDXnkK",
+    "subscribed": false,
+    "url": "https://trello.com/c/proDXnkK/4-priming-focused-registration",
+    "customFieldItems": [
+      {
+        "id": "5ab442fdd7d2456ae2eba2cd",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab44036694e612c7494a3c6",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab43b1af592467c4a43034a",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:36:16.054Z",
+    "desc": "## Story\n\nAs a user, I want an easy way to navigate around in the app so that I can focus on using the app to Trusonafy",
+    "descData": null,
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab482d4d78523e1e5bac99d"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Replace Tab Bar",
+    "pos": 131071,
+    "shortLink": "0HULdUZ4",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      }
+    ],
+    "shortUrl": "https://trello.com/c/0HULdUZ4",
+    "subscribed": false,
+    "url": "https://trello.com/c/0HULdUZ4/2-replace-tab-bar",
+    "customFieldItems": [
+      {
+        "id": "5ab4436ea75247e81aae6122",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab43b1af592467c4a43034a",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab47f50ed7c91eafb3bc309",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:16:12.962Z",
+    "desc": "As a user, I want a visually simpler settings area so that the app seems easier to use and less cluttered with confusing things",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 6,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab440a05425d4a247518505",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab43759841642c2a8541ca2"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Re-Designed Settings",
+    "pos": 196607,
+    "shortLink": "jENg0tFH",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab440a05425d4a247518505",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Delighter 🎉",
+        "color": "blue",
+        "uses": 5
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      }
+    ],
+    "shortUrl": "https://trello.com/c/jENg0tFH",
+    "subscribed": false,
+    "url": "https://trello.com/c/jENg0tFH/6-re-designed-settings",
+    "customFieldItems": [
+      {
+        "id": "5ab47f562c7ba5ba6b56b27d",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab47f50ed7c91eafb3bc309",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab47ff176beffba90f47bd0",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:20:00.815Z",
+    "desc": "## Story\n\nAs a user, I want a more delightful sound when completing registration so that I am excited about completing registration",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 7,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab440a05425d4a247518505",
+      "5ab43759841642c2a8541ca2"
+    ]
+    ,"manualCoverAttachment": false,
+    "name": "Better Rewarding Moment",
+    "pos": 262143,
+    "shortLink": "ma9288AN",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab440a05425d4a247518505",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Delighter 🎉",
+        "color": "blue",
+        "uses": 5
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      }
+    ],
+    "shortUrl": "https://trello.com/c/ma9288AN",
+    "subscribed": false,
+    "url": "https://trello.com/c/ma9288AN/7-better-rewarding-moment",
+    "customFieldItems": [
+      {
+        "id": "5ab48050fe1c0edc3f7677eb",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab47ff176beffba90f47bd0",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab4848dd61d9b6b78c09831",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:41:01.211Z",
+    "desc": "## Story\n\nAs a user unfamiliar with Essential and Executive, I should be able to tell the difference between the Essential TruClub and the Executive TruClub so that I am not confused.",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 8,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab482d4d78523e1e5bac99d",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab4854d8f9298e2ce56d45f",
+      "5ab43759841642c2a8541ca2"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Differentiate ES and EX TruClub",
+    "pos": 327679,
+    "shortLink": "eDJFRiwN",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab4854d8f9298e2ce56d45f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "TruClub",
+        "color": null,
+        "uses": 1
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      }
+    ],
+    "shortUrl": "https://trello.com/c/eDJFRiwN",
+    "subscribed": false,
+    "url": "https://trello.com/c/eDJFRiwN/8-differentiate-es-and-ex-truclub",
+    "customFieldItems": [
+      {
+        "id": "5ab4855652aa5de7b2dcf86c",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab4848dd61d9b6b78c09831",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab48499e7993aba3cbc0730",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:39:43.502Z",
+    "desc": "## Story\n\nAs a new user, I want to be given the option to try TruClub on my Desktop rather than mobile phone so I can experience scanning a TruCode.",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 9,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab482d4d78523e1e5bac99d",
+      "5ab43759841642c2a8541ca2"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Try it on Desktop",
+    "pos": 393215,
+    "shortLink": "6rVf9Uit",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      }
+    ],
+    "shortUrl": "https://trello.com/c/6rVf9Uit",
+    "subscribed": false,
+    "url": "https://trello.com/c/6rVf9Uit/9-try-it-on-desktop",
+    "customFieldItems": [
+      {
+        "id": "5ab484c57a2173de17b9010d",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab48499e7993aba3cbc0730",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab485b1c00f1077c7b0d7ff",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:43:35.510Z",
+    "desc": "## Story\n\nAs a user I want to see animations during registration instead of static images so that I feel like registering is a delightful experience",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 10,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab440a05425d4a247518505",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab43759841642c2a8541ca2"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Replace Images w/ Animations",
+    "pos": 458751,
+    "shortLink" :"2II8KV7w",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab440a05425d4a247518505",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Delighter 🎉",
+        "color": "blue",
+        "uses": 5
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      }
+    ],
+    "shortUrl": "https://trello.com/c/2II8KV7w",
+    "subscribed": false,
+    "url": "https://trello.com/c/2II8KV7w/10-replace-images-w-animations",
+    "customFieldItems": [
+      {
+        "id": "5ab485c112dc3f6f1860a95a",
+        "value": {
+          "text": "FINNOVATE"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab485b1c00f1077c7b0d7ff",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab48671694e612c749ac0fe",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:57:08.622Z",
+    "desc": "EMAIL VERIFICATION",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 11,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab482d4d78523e1e5bac99d"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Improved Email verification experience",
+    "pos": 524287,
+    "shortLink": "OuiOrqkl",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      }
+    ],
+    "shortUrl": "https://trello.com/c/OuiOrqkl",
+    "subscribed": false,
+    "url": "https://trello.com/c/OuiOrqkl/11-improved-email-verification-experience",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab48719a079aad15cea5268",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:49:22.176Z",
+    "desc": "",
+    "descData": null,
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 13,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab482d4d78523e1e5bac99d",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e1f22b59337e5626dad",
+      "5ab441daeb2b27969e933c94",
+      "5ab43e2c94ab7f9aeacdda23"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Update Email Verified Scene",
+    "pos": 589823,
+    "shortLink": "cpwSKbgn",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab441daeb2b27969e933c94",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona Service",
+        "color": null,
+        "uses": 5
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      }
+    ],
+    "shortUrl": "https://trello.com/c/cpwSKbgn",
+    "subscribed": false,
+    "url": "https://trello.com/c/cpwSKbgn/13-update-email-verified-scene",
+    "customFieldItems": [
+      {
+        "id": "5ab48721d9facce230ada27c",
+        "value": {
+          "text": "EMAIL VERIFICATION"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab48719a079aad15cea5268",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab53fae847667891e519df3",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:19:11.286Z",
+    "desc": "IPAD MVP\n",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 25,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab482d4d78523e1e5bac99d"
+    ],
+    "manualCoverAttachment": false,
+    "name": "iPad MVP",
+    "pos": 655359,
+    "shortLink": "WzqB7DYK",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [
+      "5ab5449cd96c3e51d5601ae6"
+    ],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      }
+    ],
+    "shortUrl": "https://trello.com/c/WzqB7DYK",
+    "subscribed": false,
+    "url": "https://trello.com/c/WzqB7DYK/25-ipad-mvp",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab544f8620d76e2bb6736bd",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:39:56.259Z",
+    "desc": "",
+    "descData": null,
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 33,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab482d4d78523e1e5bac99d",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e2c94ab7f9aeacdda23"
+    ],
+    "manualCoverAttachment": false,
+    "name": "A Modest iPad App",
+    "pos": 688127,
+    "shortLink": "P2k5VDtg",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      }
+    ],
+    "shortUrl": "https://trello.com/c/P2k5VDtg",
+    "subscribed": false,
+    "url": "https://trello.com/c/P2k5VDtg/33-a-modest-ipad-app",
+    "customFieldItems": [
+      {
+        "id": "5ab54527c4b88dd972b12cf4",
+        "value": {
+          "text": "IPAD MVP"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab544f8620d76e2bb6736bd",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab5410cce35cbb69cbffd24",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:02:04.039Z",
+    "desc": "DEEP LINK",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a064db2e0d5ff28ecb",
+    "idMembersVoted": [],
+    "idShort": 29,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab482d4d78523e1e5bac99d"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Third-Party App Deep Linking",
+    "pos": 720895,
+    "shortLink": "LsaGJXtw",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      }
+    ],
+    "shortUrl": "https://trello.com/c/LsaGJXtw",
+    "subscribed": false,
+    "url": "https://trello.com/c/LsaGJXtw/29-third-party-app-deep-linking",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab48767991851a1d0e9000d",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:53:02.491Z",
+    "desc": "EX PASSPORT",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 14,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b"
+    ],
+    "manualCoverAttachment": false,
+    "name": "EX Passport Support",
+    "pos": 655359,
+    "shortLink": "MH3IGzFY",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/MH3IGzFY",
+    "subscribed": false,
+    "url": "https://trello.com/c/MH3IGzFY/14-ex-passport-support",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab487d2c8041e68c793b5ea",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:56:07.936Z",
+    "desc": "## Story\n\nAs a user without a US DL, I want to upgrade to EX using my passport so that I can have all of the benefits of EX without obtaining a US DL",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 15,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab48240157f24900eb5775b",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e1f22b59337e5626dad",
+      "5ab441daeb2b27969e933c94",
+      "5ab43e2c94ab7f9aeacdda23"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Upgrade to EX w/ Passport",
+    "pos": 720895,
+    "shortLink": "Y8HaOS21",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab441daeb2b27969e933c94",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona Service",
+        "color": null,
+        "uses": 5
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      }
+    ],
+    "shortUrl": "https://trello.com/c/Y8HaOS21",
+    "subscribed": false,
+    "url": "https://trello.com/c/Y8HaOS21/15-upgrade-to-ex-w-passport",
+    "customFieldItems": [
+      {
+        "id": "5ab488c37c49ff6aef57aa1c",
+        "value": {
+          "text": "EX PASSPORT"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab487d2c8041e68c793b5ea",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab487d9a1a9726befde4ba3",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:56:51.137Z",
+    "desc": "## Story\n\nAs a user that upgraded to EX with a passport, I want to be able to use it as a token when Trusonafying, so I get all of the sweet sweet security that comes with EX",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 16,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab48240157f24900eb5775b",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab441daeb2b27969e933c94",
+      "5ab43e1a8e03fb7cd4e8e019"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Use Passport as EX Token",
+    "pos": 786431,
+    "shortLink": "3wLMjxQV",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab441daeb2b27969e933c94",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona Service",
+        "color": null,
+        "uses": 5
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/3wLMjxQV",
+    "subscribed": false,
+    "url": "https://trello.com/c/3wLMjxQV/16-use-passport-as-ex-token",
+    "customFieldItems": [
+      {
+        "id": "5ab488ee8ee07e37f3d2b01f",
+        "value": {
+          "text": "EX PASSPORT"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab487d9a1a9726befde4ba3",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab487eff944c8e9c6e97c10",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T04:55:21.373Z",
+    "desc": "## Story\n\nAs an SDK implementer in Europe, I want to be able to use Trusona's passport scanning in my app, so that I can better verify the identity of my users",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 17,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab48240157f24900eb5775b",
+      "5ab441daeb2b27969e933c94",
+      "5ab43e1f22b59337e5626dad",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1a8e03fb7cd4e8e019"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Passport Scanning in SDK",
+    "pos": 851967,
+    "shortLink": "epsbxrQZ",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab441daeb2b27969e933c94",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona Service",
+        "color": null,
+        "uses": 5
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/epsbxrQZ",
+    "subscribed": false,
+    "url": "https://trello.com/c/epsbxrQZ/17-passport-scanning-in-sdk",
+    "customFieldItems": [
+      {
+        "id": "5ab488462177dfc73538c933",
+        "value": {
+          "text": "EX PASSPORT"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab487eff944c8e9c6e97c10",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab4893c64854ea2629bdb92",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T17:59:45.939Z",
+    "desc": "GEOLOCATION",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 18,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Location and Geofencing",
+    "pos": 917503,
+    "shortLink": "sCnpQ9WD",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/sCnpQ9WD",
+    "subscribed": false,
+    "url": "https://trello.com/c/sCnpQ9WD/18-location-and-geofencing",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab489e0ef985ae9b1fe23a1",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T05:03:59.956Z",
+    "desc": "## Story\n\nAs a user, I want Trusona to use my location while I'm using the app so that my Trusona account is more secure",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 19,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab48240157f24900eb5775b",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab441daeb2b27969e933c94"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Prompt for Location after EX",
+    "pos": 983039,
+    "shortLink": "5EqDzhF9",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab441daeb2b27969e933c94",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona Service",
+        "color": null,
+        "uses": 5
+      }
+    ],
+    "shortUrl": "https://trello.com/c/5EqDzhF9",
+    "subscribed": false,
+    "url": "https://trello.com/c/5EqDzhF9/19-prompt-for-location-after-ex",
+    "customFieldItems": [
+      {
+        "id": "5ab489e7a53784e6fd9cf2ea",
+        "value": {
+          "text": "GEOLOCATION"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab489e0ef985ae9b1fe23a1",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab48b6e04188385e7dcd056",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T17:59:59.824Z",
+    "desc": "ANTI-REPLAY",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 21,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b"
+    ],
+    "manualCoverAttachment": false,
+    "name": "TruAR",
+    "pos": 1048575,
+    "shortLink": "yPcjhzTo",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/yPcjhzTo",
+    "subscribed": false,
+    "url": "https://trello.com/c/yPcjhzTo/21-truar",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab48c96b5b25538ef854b2c",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T05:14:02.926Z",
+    "desc": "## Story\n\nAs a salesbro, I want to know that the anti-replay slide in the sales deck matches what actually happens in the Trusona App so that I don't look stupid when a customer asks probing questions",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 22,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab48240157f24900eb5775b",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab43e1f22b59337e5626dad",
+      "5ab48d1a0c2557e9eb008b04"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Align App AR & Sales AR",
+    "pos": 1114111,
+    "shortLink": "dOiwOQry",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab43e1f22b59337e5626dad",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Trusona App",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab48d1a0c2557e9eb008b04",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "TruAR",
+        "color": null,
+        "uses": 2
+      }
+    ],
+    "shortUrl": "https://trello.com/c/dOiwOQry",
+    "subscribed": false,
+    "url": "https://trello.com/c/dOiwOQry/22-align-app-ar-sales-ar",
+    "customFieldItems": [
+      {
+        "id": "5ab48c9e2e97558c7fe30cd7",
+        "value": {
+          "text": "ANTI-REPLAY"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab48c96b5b25538ef854b2c",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab48d2cf6b8f9e4ee7f4848",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T05:15:54.079Z",
+    "desc": "## Story\n\nAs a salesbro, I want to know that the AR in the SDK matches the AR in the sales deck so that I don't look stupid when the customer looks at the code and understands how it actually works",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 23,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab48240157f24900eb5775b",
+      "5ab48d85911de3e7f9109101",
+      "5ab43e1a8e03fb7cd4e8e019",
+      "5ab43e0f3cde361f0d6802cd",
+      "5ab48d1a0c2557e9eb008b04"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Align SDK AR & Sales AR",
+    "pos": 1179647,
+    "shortLink": "n5CGbj8R",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab48d85911de3e7f9109101",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "SDK",
+        "color": null,
+        "uses": 1
+      },
+      {
+        "id": "5ab43e1a8e03fb7cd4e8e019",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Android",
+        "color": null,
+        "uses": 13
+      },
+      {
+        "id": "5ab43e0f3cde361f0d6802cd",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "iOS",
+        "color": null,
+        "uses": 14
+      },
+      {
+        "id": "5ab48d1a0c2557e9eb008b04",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "TruAR",
+        "color": null,
+        "uses": 2
+      }
+    ],
+    "shortUrl": "https://trello.com/c/n5CGbj8R",
+    "subscribed": false,
+    "url": "https://trello.com/c/n5CGbj8R/23-align-sdk-ar-sales-ar",
+    "customFieldItems": [
+      {
+        "id": "5ab48d79730efa1e94726d54",
+        "value": {
+          "text": "ANTI-REPLAY"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab48d2cf6b8f9e4ee7f4848",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab5417a1936fb4f7fb52337",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:03:43.805Z",
+    "desc": "",
+    "descData": null,
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437951655cc68690acc77",
+    "idMembersVoted": [],
+    "idShort": 32,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b"
+    ],
+    "manualCoverAttachment": false,
+    "name": "AAMVA",
+    "pos": 1245183,
+    "shortLink": "7GKALkW2",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/7GKALkW2",
+    "subscribed": false,
+    "url": "https://trello.com/c/7GKALkW2/32-aamva",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab53f55013778ced00bc92b",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:15:11.250Z",
+    "desc": "GCU PING",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 24,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab481edd7e4622616b9f695"
+    ],
+    "manualCoverAttachment": false,
+    "name": "GCU Ping Adapter",
+    "pos": 32767.5,
+    "shortLink": "PcFvoC3w",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab481edd7e4622616b9f695",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Revenue== 🔒",
+        "color" :"blue",
+        "uses": 1
+      }
+    ],
+    "shortUrl": "https://trello.com/c/PcFvoC3w",
+    "subscribed": false,
+    "url": "https://trello.com/c/PcFvoC3w/24-gcu-ping-adapter",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab53fce7202cf8ce5a41d93",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:28:38.783Z",
+    "desc": "FORGEROCK\n\n### Notes\n\n* Forgerock is releasing Access Manager 6.0 on April 31st.\n* Key differentiator between 5.5 and 6.0\n* 5.5 has Authentication Chains that contain Authentication Modules\n* 6.0 has Authentication Tress that contain Authentication Nodes\n* Without market data to back up their customer base migration from 5.5 to * **6.0 Kopack and I feel like we should develop on 6.0.**\n\n### Steps\n\n  1. Get development environment access (Backstage) – complete\n  2. Get local machine sandbox up and running  \n  3. 2 weeks to build\n  4. Forgerock will internally test\n  5. 2 weeks to revise based upon test results (if needed)\n  6. Launch\n\n### Ben Goodman’s (VP OF STRATEGY & INNOVATION) recommendation\n\n* Build at least 1 node (essential) so that we can participate in their 6.0 launch momentum\n* Build a module so that we can be fully compatible with their entire customer base who will run legacy code for years\n* Build another node (executive) as time and resources allow.  Could be in advance but this is a Kopack resource question",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 26,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab43759841642c2a8541ca9"
+    ],
+    "manualCoverAttachment": false,
+    "name": "ForgeRock Adapter",
+    "pos": 196607,
+    "shortLink": "MVt0DIFX",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab43759841642c2a8541ca9",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Revenue++ 💵",
+        "color": "blue",
+        "uses": 5
+      }
+    ],
+    "shortUrl": "https://trello.com/c/MVt0DIFX",
+    "subscribed": false,
+    "url": "https://trello.com/c/MVt0DIFX/26-forgerock-adapter",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab5479ec6d2efabba7f371b",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:32:48.394Z",
+    "desc": "## Story\n\nAs a Trusona developer, I want to have a local test environment where I can experiment with ForgeRock so that I can more quickly prototype and ship a working integration",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 35,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab43759841642c2a8541ca9"
+    ],
+    "manualCoverAttachment": false,
+    "name": "ForgeRock Testing Environment",
+    "pos": 212991,
+    "shortLink": "qDiqA6zl",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43759841642c2a8541ca9",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Revenue++ 💵",
+        "color": "blue",
+        "uses": 5
+      }
+    ],
+    "shortUrl": "https://trello.com/c/qDiqA6zl",
+    "subscribed": false,
+    "url": "https://trello.com/c/qDiqA6zl/35-forgerock-testing-environment",
+    "customFieldItems": [
+      {
+        "id": "5ab54850c0fa3a36a65658a1",
+        "value": {
+          "text": "FORGEROCK"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab5479ec6d2efabba7f371b",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab54637c3dfda2e8ec2379c",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:38:34.117Z",
+    "desc": "## Story\n\nAs a ForgeRock 6.0 integrator, I want a Trusona Essential Node that I can use to provide Trusona Essential to my users, so that they have a better experience and improved security",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 34,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab43759841642c2a8541ca9",
+      "5ab548fe6ecd0de71c773dd1",
+      "5ab548ea862d95cf60980d55",
+      "5ab548efcba2f69c636298f4",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab549aa036e6ae72508340a"
+    ],
+    "manualCoverAttachment": false,
+    "name": "ForgeRock Essential Node",
+    "pos": 229375,
+    "shortLink": "lELPFFwm",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43759841642c2a8541ca9",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Revenue++ 💵",
+        "color": "blue",
+        "uses": 5
+      },
+      {
+        "id": "5ab548fe6ecd0de71c773dd1",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "ForgeRock",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab548ea862d95cf60980d55",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Integration",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab548efcba2f69c636298f4",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "SAML",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab549aa036e6ae72508340a",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Essential",
+        "color": null,
+        "uses": 2
+      }
+    ],
+    "shortUrl": "https://trello.com/c/lELPFFwm",
+    "subscribed": false,
+    "url": "https://trello.com/c/lELPFFwm/34-forgerock-essential-node",
+    "customFieldItems": [
+      {
+        "id": "5ab5464984cb88abdd6f5b72",
+        "value": {
+          "text": "FORGEROCK"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab54637c3dfda2e8ec2379c",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab547f1a7c5e8a6550d3a05",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:38:41.993Z",
+    "desc": "## Story\n\nAs an integrator of ForgeRock 5.5 or earlier, I want a Trusona Essential ForgeRock module so that I don't have to upgrade to ForgeRock 6.0 to get the benefits of using Trusona.",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 36,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab43759841642c2a8541ca2",
+      "5ab43759841642c2a8541ca9",
+      "5ab548ea862d95cf60980d55",
+      "5ab548efcba2f69c636298f4",
+      "5ab548fe6ecd0de71c773dd1",
+      "5ab549aa036e6ae72508340a"
+    ],
+    "manualCoverAttachment": false,
+    "name": "ForgeRock Module",
+    "pos": 245759,
+    "shortLink": "DGwbCbQw",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43759841642c2a8541ca9",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Revenue++ 💵",
+        "color": "blue",
+        "uses": 5
+      },
+      {
+        "id": "5ab548ea862d95cf60980d55",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Integration",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab548efcba2f69c636298f4",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "SAML",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab548fe6ecd0de71c773dd1",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "ForgeRock",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab549aa036e6ae72508340a",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Essential",
+        "color": null,
+        "uses": 2
+      }
+    ],
+    "shortUrl": "https://trello.com/c/DGwbCbQw",
+    "subscribed": false,
+    "url": "https://trello.com/c/DGwbCbQw/36-forgerock-module",
+    "customFieldItems": [
+      {
+        "id": "5ab5484aec2562a6c87a83cc",
+        "value": {
+          "text": "FORGEROCK"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab547f1a7c5e8a6550d3a05",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab547fa77b8842df64951b5",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:38:16.897Z",
+    "desc": "## Story\n\nAs a ForgeRock 6.0 integrator, I want a Trusona Executive Node that I can use to provide Trusona Executive to my users, so that they have a better experience and improved security",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 37,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab548efcba2f69c636298f4",
+      "5ab548ea862d95cf60980d55",
+      "5ab548fe6ecd0de71c773dd1",
+      "5ab43e2c94ab7f9aeacdda23",
+      "5ab43759841642c2a8541ca2",
+      "5ab43759841642c2a8541ca9",
+      "5ab54998ea0d689da3de0030"
+    ],
+    "manualCoverAttachment": false,
+    "name": "ForgeRock Executive Node",
+    "pos": 253951,
+    "shortLink": "tjMsusOy",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab548efcba2f69c636298f4",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "SAML",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab548ea862d95cf60980d55",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Integration",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab548fe6ecd0de71c773dd1",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "ForgeRock",
+        "color": null,
+        "uses": 3
+      },
+      {
+        "id": "5ab43e2c94ab7f9aeacdda23",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "UI/UX",
+        "color": null,
+        "uses": 12
+      },
+      {
+        "id": "5ab43759841642c2a8541ca2",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Story",
+        "color": "green",
+        "uses": 20
+      },
+      {
+        "id": "5ab43759841642c2a8541ca9",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Revenue++ 💵",
+        "color": "blue",
+        "uses": 5
+      },
+      {
+        "id": "5ab54998ea0d689da3de0030",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Executive",
+        "color": null,
+        "uses": 1
+      }
+    ],
+    "shortUrl": "https://trello.com/c/tjMsusOy",
+    "subscribed": false,
+    "url": "https://trello.com/c/tjMsusOy/37-forgerock-executive-node",
+    "customFieldItems": [
+      {
+        "id": "5ab548766c0053e6e9fb7e36",
+        "value": {
+          "text": "FORGEROCK"
+        },
+        "idCustomField": "5ab442f339cfc095dfd89dda",
+        "idModel": "5ab547fa77b8842df64951b5",
+        "modelType": "card"
+      }
+    ]
+  },
+  {
+    "id": "5ab5403a2c934a8cce0659e7",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T21:35:40.943Z",
+    "desc": "MAGIC LINK\n\n\n## Notes\n\nhttps://www.evernote.com/l/AMqrPK1bD1JNT51lEjJvsrKVZarLfcebnLk",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 27,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Magic Link SDK",
+    "pos": 262143,
+    "shortLink": "9cUUgQmc",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/9cUUgQmc",
+    "subscribed": false,
+    "url": "https://trello.com/c/9cUUgQmc/27-magic-link-sdk",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab54058de60eee6b825edc5",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T17:59:17.210Z",
+    "desc": "",
+    "descData": null,
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 28,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b",
+      "5ab482d4d78523e1e5bac99d"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Skylab: Developer Area",
+    "pos": 327679,
+    "shortLink": "FsJ6rMhE",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      },
+      {
+        "id": "5ab482d4d78523e1e5bac99d",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "User Empathy 🤗",
+        "color": "blue",
+        "uses": 11
+      }
+    ],
+    "shortUrl": "https://trello.com/c/FsJ6rMhE",
+    "subscribed": false,
+    "url": "https://trello.com/c/FsJ6rMhE/28-skylab-developer-area",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab48ae1cf8fbc7c8fb58f76",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:41:31.417Z",
+    "desc": "TILT THE APP",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 20,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48240157f24900eb5775b"
+    ],
+    "manualCoverAttachment": false,
+    "name": "TILT: Trusona App Edition",
+    "pos": 360447,
+    "shortLink": "FWDPVPUE",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48240157f24900eb5775b",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Strategic 🤝",
+        "color": "blue",
+        "uses": 13
+      }
+    ],
+    "shortUrl": "https://trello.com/c/FWDPVPUE",
+    "subscribed": false,
+    "url": "https://trello.com/c/FWDPVPUE/20-tilt-trusona-app-edition",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab5412d9b075447d1f630a4",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:02:32.028Z",
+    "desc": "TRUDASH",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a5e4520b37c27d7dd3",
+    "idMembersVoted": [],
+    "idShort": 30,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab483912a217b6b34ee3476"
+    ],
+    "manualCoverAttachment": false,
+    "name": "TruDash Reports",
+    "pos": 393215,
+    "shortLink": "Xgm2GvU7",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab483912a217b6b34ee3476",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Biz Intel 👩‍🔬",
+        "color": "blue",
+        "uses": 1
+      }
+    ],
+    "shortUrl": "https://trello.com/c/Xgm2GvU7",
+    "subscribed": false,
+    "url": "https://trello.com/c/Xgm2GvU7/30-trudash-reports",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab5415d0fc78c8fb609d4a9",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T18:03:25.508Z",
+    "desc": "STRESS TEST",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a9e9a61e94b00de52a",
+    "idMembersVoted": [],
+    "idShort": 31,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48360d9bba18ce3217ead",
+      "5ab4828de279d76b3b30e500"
+    ],
+    "manualCoverAttachment": false,
+    "name": "Stress Testing",
+    "pos": 65535,
+    "shortLink": "5y4bdu1d",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48360d9bba18ce3217ead",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Compliance 🚓",
+        "color": "blue",
+        "uses": 2
+      },
+      {
+        "id": "5ab4828de279d76b3b30e500",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Ops. Efficiency 💸",
+        "color": "blue",
+        "uses": 1
+      }
+    ],
+    "shortUrl": "https://trello.com/c/5y4bdu1d",
+    "subscribed": false,
+    "url": "https://trello.com/c/5y4bdu1d/31-stress-testing",
+    "customFieldItems": []
+  },
+  {
+    "id": "5ab572a9764b0cf830b5cd0b",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2018-03-23T21:33:40.884Z",
+    "desc": "GDPR",
+    "descData": {
+      "emoji": {}
+    },
+    "idBoard": "5ab437592984e238acb4d440",
+    "idList": "5ab437a9e9a61e94b00de52a",
+    "idMembersVoted": [],
+    "idShort": 38,
+    "idAttachmentCover": null,
+    "idLabels": [
+      "5ab439495b0111777417b64f",
+      "5ab48360d9bba18ce3217ead"
+    ],
+    "manualCoverAttachment": false,
+    "name": "GDPR",
+    "pos": 131071,
+    "shortLink": "KD3FP94b",
+    "badges": {
+      "votes": 0,
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 0,
+      "description": true,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [
+      {
+        "id": "5ab439495b0111777417b64f",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "EPIC",
+        "color": "purple",
+        "uses": 17
+      },
+      {
+        "id": "5ab48360d9bba18ce3217ead",
+        "idBoard": "5ab437592984e238acb4d440",
+        "name": "Compliance 🚓",
+        "color": "blue",
+        "uses": 2
+      }
+    ],
+    "shortUrl": "https://trello.com/c/KD3FP94b",
+    "subscribed": false,
+    "url": "https://trello.com/c/KD3FP94b/38-gdpr",
+    "customFieldItems": []
+  }
+]

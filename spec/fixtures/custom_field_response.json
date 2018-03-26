@@ -1,0 +1,76 @@
+[
+  {
+    "id": "5ab43cc7370b88ddf36decc2",
+    "idModel": "5ab437592984e238acb4d440",
+    "modelType": "board",
+    "fieldGroup": "f48af710073f4e0fc769b354a7fe5db141e91282cf94a98262f0a66ebcec5838",
+    "name": "Estimate",
+    "pos": 16384,
+    "options": [
+      {
+        "id": "5ab43ccc05279e85e6e9843d",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "value": {
+          "text": "1"
+        },
+        "color": "none",
+        "pos": 16384
+      },
+      {
+        "id": "5ab43ccfc5d6df85a8b48ce6",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "value": {
+          "text": "2"
+        },
+        "color": "none",
+        "pos": 32768
+      },
+      {
+        "id": "5ab43cd0991851a1d0e195a9",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "value": {
+          "text": "3"
+        },
+        "color": "none",
+        "pos": 49152
+      },
+      {
+        "id": "5ab43cd138aa6c383671b1de",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "value": {
+          "text": "5"
+        },
+        "color": "none",
+        "pos": 65536
+      },
+      {
+        "id": "5ab43cd23c9d4d95528592c8",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "value": {
+          "text": "8"
+        },
+        "color": "none",
+        "pos": 81920
+      },
+      {
+        "id": "5ab43cd3f68e22de04fc1602",
+        "idCustomField": "5ab43cc7370b88ddf36decc2",
+        "value": {
+          "text": "13"
+        },
+        "color": "none",
+        "pos": 98304
+      }
+    ],
+    "type": "list"
+  },
+  {
+    "id": "5ab442f339cfc095dfd89dda",
+    "idModel": "5ab437592984e238acb4d440",
+    "modelType": "board",
+    "fieldGroup": "e422f7ff83463415e489f15f83ada576b4414794c8c4e5bcc6c746fe7e9ca402",
+    "name": "EPIC",
+    "pos": 32768,
+    "type": "text"
+  }
+]
