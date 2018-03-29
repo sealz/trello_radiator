@@ -5,11 +5,13 @@ module TrelloRadiator
   # A wrapper around the Trello REST API
   class Client
     def initialize(token = nil, key = nil, base_url = nil)
-      raise ArgumentError, 'A token is required' unless token
-      raise ArgumentError, 'A key is required' unless key
       @key   = key || ENV['TRELLO_DEVELOPER_PUBLIC_KEY']
       @token = token || ENV['TRELLO_MEMBER_TOKEN']
-      @url   = base_url || 'https://api.trello.com/api/1'
+
+      raise ArgumentError, 'A key is required' unless @key
+      raise ArgumentError, 'A token is required' unless @token
+
+      @url = base_url || 'https://api.trello.com/1'
     end
 
     def get(resource)

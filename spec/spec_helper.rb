@@ -1,3 +1,6 @@
+require 'dotenv'
+Dotenv.load
+
 require 'bundler/setup'
 require 'trello_radiator'
 

@@ -11,6 +11,8 @@
 # dotenv
 
 .env
+.env.development
+.env.test
 
 # rspec failure tracking
 .rspec_status
