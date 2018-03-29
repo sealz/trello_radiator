@@ -23,32 +23,42 @@ RSpec.describe TrelloRadiator::Card do
     end
 
     @attributes = {
-      'id' => '5ab486acd7e4e71287b3df68',
+      'id' => '5ab440341b88cd6dd42308b5',
       'checkItemStates' => nil,
-      'desc' => '## Story\n\nAs a user, I want to complete all of my '\
-                '"paperwork" while registering so that I can just use '\
-                'the app when I\'m done',
+      'desc' => '## Story\n\nAs a user, I want to be able to quickly scan the '\
+                'TruCode when I\'m using the gateway so that I don\'t have to '\
+                'sit through a long animation to get where I\'m going\n\nMore '\
+                'details: https://trello.com/c/ZMm6Mqlh',
       'idBoard' => '5ab437592984e238acb4d440',
       'idList' => '5ab437a064db2e0d5ff28ecb',
-      'pos' => 49_151.5,
-      'name' => 'Finnovate Delighters',
+      'pos' => 98_303,
+      'name' => 'Shorten Gateway Animation',
       'idLabels' => %w[
-        5ab439495b0111777417b64f
-        5ab482d4d78523e1e5bac99d
-        5ab440a05425d4a247518505
+        5ab4408f6acb2938fb0dcfdc
+        5ab43759841642c2a8541ca2
+        5ab43e2c94ab7f9aeacdda23
+        5ab440a05425d4a247518505'
       ],
-      'shortUrl' => 'https://trello.com/c/mrVKcrOs',
-      'customFieldItems' => [
-        {
-          'id' => '5ab5408492b0cc36b94bdc65',
-          'value' => { 'text' => 'FINNOVATE' },
-          'idCustomField' => '5ab442f339cfc095dfd89dda',
-          'idModel' => '5ab486acd7e4e71287b3df68',
-          'modelType' => 'card'
-        }
-      ]
+      'shortUrl' => 'https://trello.com/c/yGK57u4P',
+      'customFieldItems' => [{
+        'id' => '5ab44424e5c8c034f8824dcf',
+        'value' => { 'text' => 'FINOVATE' },
+        'idCustomField' => '5ab442f339cfc095dfd89dda',
+        'idModel' => '5ab440341b88cd6dd42308b5',
+        'modelType' => 'card'
+      },
+      {
+        'id' => '5abb2b7da8bcf2396fec3b20',
+        'value' => {
+          'number' => '5'
+        },
+        'idCustomField' => '5abb2b7ab764420bcbf04a89',
+        'idModel' => '5ab440341b88cd6dd42308b5',
+        'modelType' => 'card'
+      }]
     }
   end
+
   describe 'creating a new card' do
     it 'sets all of the fields from the passed in attributes' do
       sut = TrelloRadiator::Card.new(@attributes)
@@ -67,7 +77,8 @@ RSpec.describe TrelloRadiator::Card do
     context 'when custom field data ia passed in' do
       it 'applies the correct custom fields and values' do
         sut = TrelloRadiator::Card.new(@attributes, nil, @custom_fields)
-        expect(sut.customFields).to include('EPIC' => 'FINNOVATE')
+        expect(sut.customFields).to include('EPIC' => 'FINOVATE')
+        expect(sut.customFields).to include('Estimate' => '5')
       end
     end
 

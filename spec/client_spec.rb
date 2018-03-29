@@ -3,12 +3,14 @@ require 'spec_helper'
 RSpec.describe TrelloRadiator::Client do
   describe 'creating a new client' do
     it 'requires a token' do
+      ENV['TRELLO_MEMBER_TOKEN'] = nil
       expect { TrelloRadiator::Client.new(nil, 'key') }.to(
         raise_error(ArgumentError, 'A token is required')
       )
     end
 
     it 'requires a key' do
+      ENV['TRELLO_DEVELOPER_PUBLIC_KEY'] = nil
       expect { TrelloRadiator::Client.new('token', nil) }.to(
         raise_error(ArgumentError, 'A key is required')
       )

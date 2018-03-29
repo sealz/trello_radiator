@@ -11,6 +11,8 @@ module TrelloRadiator
       @client = client || TrelloRadiator::Client.new
 
       autoload = options[:autoload] || options['autoload'] || nil
+      @card_fields = options[:card_fields] || options['card_fields'] || 'id,'\
+        'checkItemStates,desc,idBoard,idList,pos,name,idLabels,shortUrl'
       fetch if autoload
     end
 
@@ -24,15 +26,15 @@ module TrelloRadiator
       self.labels = board['labels'].map { |label| Label.new(label) }
       self.lists  = board['lists'].map { |list| List.new(list) }
 
-      custom_fields = @client.get("/boards/#{@identifier}/customFields")
-      self.custom_fields = custom_fields.map { |field| CustomField.new(field) }
+      field_data = @client.get("/boards/#{@identifier}/customFields")
+      self.custom_fields = field_data.map { |field| CustomField.new(field) }
 
       cards = @client.get(
         "/boards/#{@identifier}/cards?customFieldItems=true&fields=" \
-        'id,checkItemStates,desc,idBoard,idList,pos,name,idLabels,shortUrl'
+        "#{@card_fields}"
       )
 
-      self.cards = cards.map { |card| Card.new(card, board) }
+      self.cards = cards.map { |card| Card.new(card, board, custom_fields) }
     end
   end
 end

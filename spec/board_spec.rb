@@ -66,6 +66,21 @@ RSpec.describe TrelloRadiator::Board do
       expect(@stub_client).to receive(:get)
       TrelloRadiator::Board.new('my-board', @stub_client, autoload: true)
     end
+
+    it 'optionally allows for specifying the card fetching query params' do
+      expect(@stub_client).to(
+        receive(:get).with(
+          '/boards/my-board/cards?customFieldItems=true&fields=foo,bar,baz'
+        )
+      ).and_return(@cards_fixture)
+
+      TrelloRadiator::Board.new(
+        'my-board',
+        @stub_client,
+        autoload: true, card_fields: 'foo,bar,baz'
+      )
+
+    end
   end
 
   describe 'fetching the board' do
@@ -135,13 +150,13 @@ RSpec.describe TrelloRadiator::Board do
         sut.fetch
 
         expect(sut.labels).to be
-        expect(sut.labels.size).to eq(26)
+        expect(sut.labels.size).to eq(34)
         expect(sut.labels.first).to be_a TrelloRadiator::Label
         expect(sut.labels.first.id).to eq('5ab43759841642c2a8541ca2')
         expect(sut.labels.first.idBoard).to eq('5ab437592984e238acb4d440')
         expect(sut.labels.first.name).to eq('Story')
         expect(sut.labels.first.color).to eq('green')
-        expect(sut.labels.first.uses).to eq(20)
+        expect(sut.labels.first.uses).to eq(37)
       end
 
       it 'populates the cards' do
@@ -149,7 +164,7 @@ RSpec.describe TrelloRadiator::Board do
         sut.fetch
 
         expect(sut.cards).to be
-        expect(sut.cards.size).to eq(36)
+        expect(sut.cards.size).to eq(64)
         expect(sut.cards.first).to be_a TrelloRadiator::Card
         expect(sut.cards.first.id).to eq @cards_fixture[0]['id']
         expect(sut.cards.first.checkItemStates).to(
@@ -169,7 +184,7 @@ RSpec.describe TrelloRadiator::Board do
         sut.fetch
 
         expect(sut.lists).to be
-        expect(sut.lists.size).to eq(4)
+        expect(sut.lists.size).to eq(5)
         expect(sut.lists.first).to be_a TrelloRadiator::List
         expect(sut.lists.first.id).to eq(@fixture['lists'][0]['id'])
         expect(sut.lists.first.name).to eq(@fixture['lists'][0]['name'])
