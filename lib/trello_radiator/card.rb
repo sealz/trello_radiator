@@ -3,9 +3,10 @@ module TrelloRadiator
   # A Trello Card
   class Card
     attr_accessor :id, :checkItemStates, :desc, :idBoard, :idList, :pos,
-                  :name, :idLabels, :shortUrl, :labels, :list, :customFields
+                  :name, :idLabels, :shortUrl, :labels, :list, :customFields,
+                  :idChecklists, :checklists
 
-    def initialize(attributes, raw = nil, custom_fields = [])
+    def initialize(attributes = {}, raw = nil, custom_fields = [])
       self.id              = attributes['id']
       self.checkItemStates = attributes['checkItemStates']
       self.desc            = attributes['desc']
@@ -15,6 +16,8 @@ module TrelloRadiator
       self.name            = attributes['name']
       self.idLabels        = attributes['idLabels']
       self.shortUrl        = attributes['shortUrl']
+      self.idChecklists    = attributes['idChecklists']
+      self.checklists      = []
 
       self.labels = find_matching_labels(raw)
       self.list = find_matching_list(raw)
@@ -45,7 +48,7 @@ module TrelloRadiator
 
     def epic?
       epic_label = labels.find { |label| label.name == 'EPIC' }
-      return epic_label.nil? ? false : true
+      epic_label.nil? ? false : true
     end
 
     def epic
@@ -54,7 +57,25 @@ module TrelloRadiator
       end
 
       return nil unless custom_estimate_field
-      estimate = custom_estimate_field.values.first
+      custom_estimate_field.values.first
+    end
+
+    def fetch_checklists
+      @client = TrelloRadiator::Client.new
+      checklists = @client.get("/cards/#{id}/checklists")
+      self.checklists = checklists.map { |c| TrelloRadiator::Checklist.new(c) }
+    end
+
+    def remaining_task_time
+      checklists.sum(&:time_remaining)
+    end
+
+    def estimated_task_time
+      checklists.sum(&:time_estimate)
+    end
+
+    def actual_task_time
+      checklists.sum(&:time_actual)
     end
 
     private
@@ -64,6 +85,8 @@ module TrelloRadiator
       return [] if all.nil?
       mapped = []
       mine.each do |field|
+        next unless field
+        next unless field['value']
         match = all.find { |f| f.id == field['idCustomField'] }
         next unless match
         mapped << {
