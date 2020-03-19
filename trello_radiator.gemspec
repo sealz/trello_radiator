@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Collects metrics from Trello and helps inform ' \
                        'stakeholders so that they can make better decisions.'
   spec.homepage      = 'https://github.com/lighthauz/trello_radiator'
-  spec.license       = 'UNLICENSED'
+  spec.license       = 'Nonstandard'
 
   # Prevent pushing this gem to RubyGems.org.
   # To allow pushes either set the 'allowed_push_host'

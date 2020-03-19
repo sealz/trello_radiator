@@ -12,8 +12,7 @@ module TrelloRadiator
 
       autoload = options[:autoload] || options['autoload'] || nil
       @card_fields = options[:card_fields] || options['card_fields'] || 'id,'\
-        'checkItemStates,desc,idBoard,idList,pos,name,idLabels,shortUrl,'\
-        'checklists'
+        'desc,idBoard,idList,pos,name,idLabels,shortUrl'
       fetch if autoload
     end
 
